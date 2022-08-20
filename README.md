@@ -1,2 +1,11 @@
-# ItemsToBuy
- A simple app to add list of items to buy 
+# fresh project
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
